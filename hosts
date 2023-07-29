@@ -1,0 +1,73 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+0.0.0.0 popup.taboola.com
+0.0.0.0 www.popup.taboola.com
+0.0.0.0 taboola.com
+0.0.0.0 www.taboola.com
+0.0.0.0 cdn.taboolasyndication.com
+0.0.0.0 taboolasyndication.com
+0.0.0.0 www.taboolasyndication.com
+0.0.0.0 www.cdn.taboolasyndication.com
+0.0.0.0 trc.taboola.com
+0.0.0.0 www.trc.taboola.com
+0.0.0.0 images.taboola.com
+0.0.0.0 adserver.adtechus.com
+0.0.0.0 www.adserver.adtechus.com
+0.0.0.0 us-u.openx.net
+0.0.0.0 www.us-u.openx.net
+0.0.0.0 api.taboola.com
+0.0.0.0 www.api.taboola.com
+0.0.0.0 c2.taboola.com
+0.0.0.0 www.c2.taboola.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 www.cdn.taboola.com
+0.0.0.0 urc.taboolasyndication.com
+0.0.0.0 www.urc.taboolasyndication.com
+0.0.0.0 taboola.com.edgekey.net
+0.0.0.0 www.taboola.com.edgekey.net
+0.0.0.0 esd-secure.taboola.com.edgekey.net
+0.0.0.0 www.esd-secure.taboola.com.edgekey.net
+0.0.0.0 nr.taboola.com
+0.0.0.0 api.taboola.com
+0.0.0.0 c2.taboola.com
+0.0.0.0 https://cdn.taboola.com
+0.0.0.0 urc.taboolasyndication.com
+0.0.0.0 taboola.com.edgekey.net
+0.0.0.0 esd-secure.taboola.com.edgekey.net
+0.0.0.0 cdn.taboolasyndication.co
+0.0.0.0 oooutbrain.com
+0.0.0.0 www.outbrain.com
+0.0.0.0 odb.outbrain.com
+0.0.0.0 images.outbrain.com
+0.0.0.0 log.outbrain.com
+0.0.0.0 amplify.outbrain.com
+0.0.0.0 amplifypixel.outbrain.com
+0.0.0.0 vra.outbrain.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 sync.outbrain.com
+0.0.0.0 tr.outbrain.com
+0.0.0.0 vrp.outbrain.com
+0.0.0.0 vrt.outbrain.com
+0.0.0.0 request-global.czilladx.com
+0.0.0.0 cdn.bmcdn1.com
+0.0.0.0 ad.bitmedia.io
+0.0.0.0 track.dvndr.net
